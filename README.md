@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning low level stuff (drivers etc)
 - 💞️ I’m looking to collaborate on projects in any area of CS
-- 📫 How to reach me : vorgiasdemetrios@gmail.com
+- 📫 How to reach me : vorgias@ics.forth.gr
 
 <!---
 Vorgias/Vorgias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
